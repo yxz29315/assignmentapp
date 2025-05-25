@@ -1,7 +1,7 @@
 {
-	"name": "assignment-submission-vsit-hackathon",
+	"name": "assignment-submission",
 	"version": "1.0.0",
-	"description": "VSIT hackathon project",
+	"description": "Project",
 	"main": "app.js",
 	"scripts": {
 		"test": "start http://localhost:4000 & npm run dev",
@@ -10,15 +10,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/abhijoshi2k/Assignment-Submission-VSIT-hackathon.git"
+		"url": "git+https://github.com/yxz29315/assignmentapp.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/abhijoshi2k/Assignment-Submission-VSIT-hackathon/issues"
+		"url": "https://github.com/yxz29315/assignmentapp.git/issues"
 	},
-	"homepage": "https://github.com/abhijoshi2k/Assignment-Submission-VSIT-hackathon#readme",
+	"homepage": "https://github.com/yxz29315/assignmentapp.git#readme",
 	"dependencies": {
 		"base64topdf": "^1.1.8",
 		"cloudinary": "^1.25.0",
